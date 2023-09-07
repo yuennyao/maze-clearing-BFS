@@ -28,4 +28,15 @@ Find the path to clear out all the rubbish bins.
 ● When the man enters a disposal room with the rubbish bin filled with rubbish, the rubbish will be automatically cleared and the bin will be emptied. A new path will start from the current disposal room to continue exploring and entering other neighbouring rooms. <br>
 ● The man cannot enter the same room multiple times on the same path. Once he enters a room where all its neighbouring rooms have been explored before, a new path is initiated starting from the current room so that all the explored rooms in the previous path can be re-explored. <br>
 ● The man can enter the same room multiple times on different paths. <br>
-● A solution is found and the search is terminated when the man successfully clears all the rubbish from the rubbish rooms in different paths. <br>
+● A solution is found and the search is terminated when the man successfully clears all the rubbish from the rubbish rooms in different paths. <be>
+
+<h3>Steps to run the algorithm:</h3>
+1. Open the bfs_coordinate_1.py file in Visual Studio Code. <br>
+2. Go to File -> Preferences -> Settings. <br>
+3. Search for "scrollback". <br>
+4. Click on the "Workspace" tab. <br>
+5. Change "Terminal > Integrated: Scrollback" value to "4600". <br>
+6. Run the bfs_coordinate_1.py file which solves the original maze problem. <br>
+The result is displayed in the terminal. 
+
+
