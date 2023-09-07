@@ -39,4 +39,5 @@ Find the path to clear out all the rubbish bins.
 6. Run the bfs_coordinate_1.py file which solves the original maze problem. <br>
 The result is displayed in the terminal. 
 
-
+<hr>
+<h6>Project completed in 2023</h6>
