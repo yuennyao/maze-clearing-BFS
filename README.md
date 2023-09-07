@@ -23,7 +23,7 @@ Find the path to clear out all the rubbish bins.
   &nbsp;○ reaching a disposal room while carrying a filled rubbish bin <br>
   &nbsp;○ reaching a room where all its neighbouring rooms have been explored or will overload the rubbish bin. <br>
   &nbsp;○ reaching a room where the rooms in frontier cannot be entered due to a mismatch with the children of the room. <br> 
-● A room is considered to be explored if Ronny enters into it. An explored room is added to a list known as explored. <br>
+● A room is considered to be explored if the man enters into it. An explored room is added to a list known as explored. <br>
 ● When the man enters a room with rubbish, it will automatically be deposited into the bin. <br>
 ● When the man enters a disposal room with the rubbish bin filled with rubbish, the rubbish will be automatically cleared and the bin will be emptied. A new path will start from the current disposal room to continue exploring and entering other neighbouring rooms. <br>
 ● The man cannot enter the same room multiple times on the same path. Once he enters a room where all its neighbouring rooms have been explored before, a new path is initiated starting from the current room so that all the explored rooms in the previous path can be re-explored. <br>
